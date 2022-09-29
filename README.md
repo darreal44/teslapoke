@@ -12,6 +12,6 @@ https://www.tesla.com/about/security
 ## sources
 
 I will put there every references I used or read related to this work:
-- Tristan Rice work on Tesla model 3[https://fn.lc/post/tesla-model-3 (many links in his work too I readed some before reading him too)
+- [Tristan Rice work on Tesla model 3](https://fn.lc/post/tesla-model-3) (many links in his work too I readed some before reading him too)
 
 
