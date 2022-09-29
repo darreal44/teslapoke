@@ -18,3 +18,6 @@ I will put there every references I used or read related to this work:
 
 I bought an adapter with a Fakra connector to ethernet from Maxwell Autotech: [Tesla service cable ethernet FakraHSD for toolbox](https://maxwellautotech.com/product/tesla-service-cable-ethernet-fakrahsd-for-toolbox-1-5ft-model-sx/).
 I removed the small box under the screen by pushing it hard to the bottom (There are clips is to put back by pushing up)
+![removed box](https://github.com/darreal44/teslapoke/blob/main/FBD22D18-B4CC-4591-9440-E235F7332E0F.jpeg?raw=true)
+Then connected the Fakra cable:
+![Fakra](https://github.com/darreal44/teslapoke/blob/main/FD94F98D-A0FA-4F34-AB52-C5FE9EAC7A46.jpeg?raw=true)
