@@ -14,4 +14,7 @@ https://www.tesla.com/about/security
 I will put there every references I used or read related to this work:
 - [Tristan Rice work on Tesla model 3](https://fn.lc/post/tesla-model-3) (many links in his work too I readed some before reading him too)
 
+## A beginning
 
+I bought an adapter with a Fakra connector to ethernet from Maxwell Autotech: [Tesla service cable ethernet FakraHSD for toolbox](https://maxwellautotech.com/product/tesla-service-cable-ethernet-fakrahsd-for-toolbox-1-5ft-model-sx/).
+I removed the small box under the screen by pushing it hard to the bottom (There are clips is to put back by pushing up)
